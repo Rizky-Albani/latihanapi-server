@@ -3,10 +3,10 @@
   {"name": "Simple Pants", "desc": "Pants are a type of garment worn on the lower body, covering both legs, typically fastened at the waist", "image": "pants"},
   {"name": "T Shirt", "desc": "A t-shirt is a casual, short-sleeved garment typically made of cotton, featuring a round neckline and comfortable fit.", "image": "t-shirt"},
   {"name": "Simple Hat", "desc": "A hat is a head-covering accessory worn for protection or fashion, typically made of fabric or straw.", "image": "hat"},
-  {"name": "Bag", "desc": "Won Korea Selatan", "image": "bag"},
-  {"name": "Surgical Gloves", "desc": "Yuan Jepang", "image": "surgical-gloves"},
-  {"name": "Face Mask Anti Virus", "desc": "Euro", "image": "facemask"},
-  {"name": "Sunglasses", "desc": "Yuan China", "image": "sunglass"},
-  {"name": "Blue Socks", "desc": "Dollar Australia","image": "socks"},
-  {"name": "Senakers", "desc": "Dollar Australia","image": "shoes"}
+  {"name": "Bag", "desc": "A bag is a flexible container with handles, used for carrying personal belongings, groceries, or other items.", "image": "bag"},
+  {"name": "Surgical Gloves", "desc": "Surgical gloves are sterile, disposable gloves worn by healthcare professionals to protect against contamination during surgeries.", "image": "surgical-gloves"},
+  {"name": "Face Mask Anti Virus", "desc": "A face mask is a protective covering worn over the nose and mouth to reduce the spread of germs.", "image": "facemask"},
+  {"name": "Sunglasses", "desc": "Sunglasses are eyewear designed to protect the eyes from the sun's harmful UV rays and enhance visibility.", "image": "sunglass"},
+  {"name": "Blue Socks", "desc": "Blue socks are a type of hosiery that cover the feet and lower legs, typically in a shade of blue.","image": "socks"},
+  {"name": "Senakers", "desc": "Shoes are footwear designed to cover and protect the feet, providing support and comfort while walking or running.","image": "shoes"}
 ]
