@@ -1,0 +1,12 @@
+[
+  {"name": "Jacket Boomber", "desc": "A jacket is a garment worn on the upper body for warmth or fashion, typically with sleeves and a front opening.", "image": "jacket"},
+  {"name": "Simple Pants", "desc": "Pants are a type of garment worn on the lower body, covering both legs, typically fastened at the waist", "image": "pants"},
+  {"name": "T Shirt", "desc": "A t-shirt is a casual, short-sleeved garment typically made of cotton, featuring a round neckline and comfortable fit.", "image": "t-shirt"},
+  {"name": "Simple Hat", "desc": "A hat is a head-covering accessory worn for protection or fashion, typically made of fabric or straw.", "image": "hat"},
+  {"name": "Bag", "desc": "Won Korea Selatan", "image": "bag"},
+  {"name": "Surgical Gloves", "desc": "Yuan Jepang", "image": "surgical-gloves"},
+  {"name": "Face Mask Anti Virus", "desc": "Euro", "image": "facemask"},
+  {"name": "Sunglasses", "desc": "Yuan China", "image": "sunglass"},
+  {"name": "Blue Socks", "desc": "Dollar Australia","image": "socks"},
+  {"name": "Senakers", "desc": "Dollar Australia","image": "shoes"}
+]
